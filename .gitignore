@@ -5,3 +5,6 @@
 #ignore files 
 debug/*
 Cred/*
+log_directory/*
+reactor_info_directory/*
+
